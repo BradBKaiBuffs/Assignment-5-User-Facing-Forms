@@ -8,8 +8,8 @@
 4. Also included the ability to sort these records by column
 
 ## Assignment Detail
-1. Each model (Student, Course, Major, Requirement, Enroll, Course_requirement, Major_requirement, Major_selection) has a new/ and edit user form
-2. User will need to view each model under it's own dedicated page. The dedicated pages for address 127.0.0.1:8000 are:
+1. Each model (Student, Course, Major, Requirement, Enroll, Course_requirement, Major_requirement, Major_selection) has a creation and edit user form
+2. User will need to view each model under it's own dedicated page. The dedicated pages for address 127.0.0.1:8000/ are:
 
 - Student/
 - Major/
